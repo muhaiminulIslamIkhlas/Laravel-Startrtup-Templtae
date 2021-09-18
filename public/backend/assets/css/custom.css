@@ -1,0 +1,17 @@
+.app-search i {
+    position: relative;
+    bottom: 28px;
+    /* right: -17px; */
+    left: 14px;
+}
+
+.dataTables_wrapper > .dt-buttons {
+    display: inline-block;
+    top: 34px;
+}
+
+.form-label {
+    margin-top: 20px;
+    font-weight: 600;
+    color: darkblue;
+}
